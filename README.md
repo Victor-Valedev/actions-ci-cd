@@ -3,5 +3,4 @@
 ## Versão
 - V1: 12/Jan/2025
 
-## Instrutor/autor
-- [Gustavo Eduardo Silva Machado](https://github.com/qagesmachado)
+Repositório criado para práticas do Curso de CI/CD.
